@@ -1,6 +1,6 @@
 Name:		python-gdata-python3
 Version:	3.0.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/g/gdata-python3/gdata-python3-%{version}.tar.gz
 Summary:	Python client library for Google data APIs
 URL:		https://pypi.org/project/gdata-python3/
